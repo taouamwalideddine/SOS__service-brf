@@ -84,6 +84,10 @@ a:focus {
   position: relative;
   background-color: #40383042;
 }
+.header_section{
+background-color: #cecbc9;
+
+}
 
 .header_section .container-fluid {
   padding-right: 25px;
